@@ -1,2 +1,2 @@
 # Typeahead Search
-[Homepage](https://betterdoctor.grahampaye.com/)
+[Live Link](https://betterdoctor.grahampaye.com/)
